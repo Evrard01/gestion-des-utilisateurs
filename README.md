@@ -7,6 +7,19 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+
+## Mon application : Gestion des utilisateurs
+Dans cette application, j'ai utilisé laravel livewire pour avoir le dynamisme que propose les framworks javascript. AlpineJs pour gerer le modale.
+laravel Livewire a permis de creer une SPA ce qui rend l'application rapide et fluide.
+
+
+## Fonctionnalites
+- Ajout d'utilisateur
+- Modification d'utilisateur
+- Suppression d'utilisateur
+- Recherche d'utilisateur par un nom
+
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
